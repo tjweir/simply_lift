@@ -92,14 +92,14 @@ Introduction
 
 \begin_layout Standard
 The Lift Web Framework provides web application developers tools to make
- writing security, interacting, scalable web applications easier than with
- any other web framework.
+ writing secure, interactive and scalable web applications easier than any
+ other web framework.
  After reading Part I of this book, you should understand Lift's core concepts
  and be able to write Lift applications.
  But with anything, practice is important.
  I have been writing Lift and Scala for 4 years, and even I learn new things
  about the language and the framework on a weekly basis.
- Please consider Lift an path and an exploration, rather than an end point.
+ Please consider learning Lift an exploration, rather than an end point.
 \end_layout
 
 \begin_layout Standard
@@ -174,8 +174,8 @@ target "http://exploring.liftweb.net/"
 
 \begin_layout Standard
 Lift is different from most web frameworks and it's likely that Lift's differenc
-es will present a challenge and a friction if you are familiar with the
- MVC school of web frameworks
+es will present a challenge if you are familiar with the MVC school of web
+ frameworks
 \begin_inset Foot
 status open
 
@@ -187,21 +187,19 @@ This includes Ruby on Rails, Struts, Java Server Faces, Django, TurboGears,
 \end_inset
 
 .
- But Lift is different and Lift's differences give you more power to create
- interactive applications.
+ Lift's differences give you more power to create interactive applications.
  Lift's differences lead to more concise web applications.
  Lift's differences result in more secure and scalable applications.
  Lift's differences let you be more productive and make maintaining applications
  easier for the future you or whoever is writing your applications.
- Please relax and work to understand Lift's differences...
- and see how you can make best use of Lift's features to build your web
- applications.
+ Please relax and work to understand these differences...
+ and see how you can make best use of them to build your web applications.
 \end_layout
 
 \begin_layout Standard
 Lift creates abstractions that allow easier expression of business logic
  and then maps those abstractions to HTTP and HTML.
- This approach differs from traditional web frameworks which build abstractions
+ This approach differs from traditional web frameworks, which build abstractions
  on top of HTTP and HTML and require the developer to bridge between common
  business logic patterns and the underlying protocol.
  The difference means that you spend more time thinking about your application
@@ -213,7 +211,7 @@ I'm a
 \begin_inset Quotes eld
 \end_inset
 
-roll up your sleaves and get your hands dirty with code
+roll up your sleeves and get your hands dirty with code
 \begin_inset Quotes erd
 \end_inset
 
